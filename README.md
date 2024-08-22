@@ -19,7 +19,7 @@ npm i @hazae41/base64.wasm
 ## Usage
 
 ```typescript
-import { Base64Wasm, Ed25519Keypair } from "@hazae41/base64.wasm";
+import { Base64Wasm, base64_encode_padded, base64_decode_padded } from "@hazae41/base64.wasm";
 
 // Wait for WASM to load
 await Base64Wasm.initBundled();
