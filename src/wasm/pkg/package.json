@@ -1,0 +1,24 @@
+{
+  "name": "base64_wasm",
+  "type": "module",
+  "collaborators": [
+    "hazae41 <4405263+hazae41@users.noreply.github.com>"
+  ],
+  "description": "WebAssembly port of Base64 and Base64Url",
+  "version": "1.0.0",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hazae41/base64.wasm"
+  },
+  "files": [
+    "base64_wasm_bg.wasm",
+    "base64_wasm.js",
+    "base64_wasm.d.ts"
+  ],
+  "main": "base64_wasm.js",
+  "types": "base64_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
