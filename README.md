@@ -16,6 +16,10 @@ npm i @hazae41/base64.wasm
 ## Modules
 - base64ct
 
+## Algorithms
+- Base64
+- Base64URL
+
 ## Usage
 
 ```typescript
