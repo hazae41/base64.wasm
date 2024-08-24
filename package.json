@@ -2,7 +2,7 @@
   "type": "module",
   "name": "@hazae41/base64.wasm",
   "version": "1.0.8",
-  "description": "WebAssembly port of Base64 and Base64Url",
+  "description": "WebAssembly port of Base64 and Base64URL",
   "homepage": "https://github.com/hazae41/base64.wasm",
   "repository": "github:hazae41/base64.wasm",
   "author": "hazae41",

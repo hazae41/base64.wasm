@@ -1,6 +1,6 @@
 # base64.wasm
 
-WebAssembly port of Base64 and Base64Url
+WebAssembly port of Base64 and Base64URL
 
 ```bash
 npm i @hazae41/base64.wasm
