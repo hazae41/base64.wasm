@@ -1,4 +1,4 @@
-# DEPRECATED: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array/toBase64
+# [DEPRECATED](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array/toBase64)
 
 # base64.wasm
 
