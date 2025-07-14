@@ -1,3 +1,5 @@
+# DEPRECATED: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array/toBase64
+
 # base64.wasm
 
 WebAssembly port of Base64 and Base64URL
